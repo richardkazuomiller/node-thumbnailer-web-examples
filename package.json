@@ -9,6 +9,6 @@
   "author": "Richard Kazuo Miller",
   "license": "MIT",
   "dependencies" : {
-    "node-thumbnailer-web" : "0.0.3"
+    "node-thumbnailer-web" : "0.0.5"
   }
 }
